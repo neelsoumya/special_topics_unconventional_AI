@@ -83,7 +83,9 @@ https://github.com/alejandrodemiquel/ARC_Kaggle
 
 TBD
 
+### Administrivia
 
+https://www.cl.cam.ac.uk/teaching/2122/R255/
 
 ### Contact
 
