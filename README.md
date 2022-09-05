@@ -7,6 +7,7 @@ A reading list for a special topics class. A tentative title is:
 
 `Unconventional approaches in AI and CS: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity and other unconventional models`
 
+This is AI or classical AI before big data.
 
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
@@ -81,7 +82,9 @@ https://github.com/alejandrodemiquel/ARC_Kaggle
 
 ### Writeup and Projects
 
-TBD
+Short report (less than 4000 words)
+
+Suggest how these ideas can be incorporated in modern AI
 
 ### Administrivia
 
