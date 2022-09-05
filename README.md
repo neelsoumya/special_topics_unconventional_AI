@@ -57,9 +57,6 @@ https://nautil.us/the-storytelling-computer-8380/
 
 https://dspace.mit.edu/handle/1721.1/67693
 
-Other paths to intelligence elsewhere in the animal kingdom
-
-https://nautil.us/another-path-to-intelligence-23113/
 
 Explanation in artificial intelligence: Insights from the social sciences (Miller)
 
@@ -79,6 +76,9 @@ https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challe
 
 https://github.com/alejandrodemiquel/ARC_Kaggle
 
+Other paths to intelligence elsewhere in the animal kingdom
+
+https://nautil.us/another-path-to-intelligence-23113/
 
 ### Writeup and Projects
 
