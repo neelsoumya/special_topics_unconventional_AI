@@ -5,7 +5,7 @@
 
 A reading list for a special topics class. A tentative title is: 
 
-`Unconventional approaches in AI and CS: complex systems perspectives, cognitive psychology, computational models of creativity and other unconventional models`
+`Unconventional approaches in AI and CS: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity and other unconventional models`
 
 
 
@@ -53,9 +53,13 @@ Other paths to intelligence elsewhere in the animal kingdom
 
 https://nautil.us/another-path-to-intelligence-23113/
 
+Explanation in artificial intelligence: Insights from the social sciences (Miller)
+
+https://arxiv.org/abs/1706.07269
 
 ### Writeup and Projects
 
+TBD
 
 
 
