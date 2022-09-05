@@ -41,6 +41,12 @@ On the measure of intelligence (Abstraction and Reasoning Corpus)
 
 https://arxiv.org/abs/1911.01547
 
+Abstraction and Reasoning Corpus
+
+https://github.com/fchollet/ARC
+
+
+
 Commonsense reasoning
 
 https://dl.acm.org/doi/10.1145/2701413
@@ -58,6 +64,17 @@ https://nautil.us/another-path-to-intelligence-23113/
 Explanation in artificial intelligence: Insights from the social sciences (Miller)
 
 https://arxiv.org/abs/1706.07269
+
+
+
+### Other Resources
+
+Abstraction and Reasoning Corpus Challenge
+
+https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
+
+https://github.com/alejandrodemiquel/ARC_Kaggle
+
 
 ### Writeup and Projects
 
