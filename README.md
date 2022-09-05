@@ -13,7 +13,9 @@ A reading list for a special topics class. A tentative title is:
 
 The Psychology of Invention in the Mathematical Field
 
-Computational models of creativity (Pat Langley)
+Computational models of creativity and scientific insight (Pat Langley)
+
+https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
 The Theory of Mind
 
