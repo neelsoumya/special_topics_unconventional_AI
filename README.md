@@ -27,7 +27,6 @@ The emergence of understanding in a computer model of concepts and analogy-makin
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
-https://melaniemitchell.me/PostdocProjectDescription.pdf
 
 Creativity and artificial intelligence
 
@@ -68,6 +67,10 @@ https://arxiv.org/abs/1706.07269
 
 
 ### Other Resources
+
+Analogy in AI
+
+https://melaniemitchell.me/PostdocProjectDescription.pdf
 
 Abstraction and Reasoning Corpus Challenge
 
