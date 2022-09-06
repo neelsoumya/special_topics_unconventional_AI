@@ -18,47 +18,43 @@ This is AI or classical AI before big data. The time is now ripe to revisit thes
 
 https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
-The Theory of Mind
+* The Theory of Mind
 
-Copycat (a computational model of analogy making)
+* Copycat (a computational model of analogy making)
 
 https://dspace.mit.edu/handle/1721.1/5648
 
-The emergence of understanding in a computer model of concepts and analogy-making
+* The emergence of understanding in a computer model of concepts and analogy-making
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
 
-Creativity and artificial intelligence
+* Creativity and artificial intelligence
 
 https://www.sciencedirect.com/science/article/pii/S0004370298000551
 
-The overfitted brain: Dreams evolved to assist generalization
+* The overfitted brain: Dreams evolved to assist generalization
 
 https://doi.org/10.1016/j.patter.2021.100244
 
-On the measure of intelligence (Abstraction and Reasoning Corpus)
+* On the measure of intelligence (Abstraction and Reasoning Corpus)
 
 https://arxiv.org/abs/1911.01547
 
-Abstraction and Reasoning Corpus
-
-https://github.com/fchollet/ARC
 
 
-
-Commonsense reasoning
+* Commonsense reasoning
 
 https://dl.acm.org/doi/10.1145/2701413
 
-Stories and narratives (Patrick Winston)
+* Stories and narratives (Patrick Winston)
 
 https://nautil.us/the-storytelling-computer-8380/
 
 https://dspace.mit.edu/handle/1721.1/67693
 
 
-Explanation in artificial intelligence: Insights from the social sciences (Miller)
+* Explanation in artificial intelligence: Insights from the social sciences (Miller)
 
 https://arxiv.org/abs/1706.07269
 
@@ -66,25 +62,35 @@ https://arxiv.org/abs/1706.07269
 
 ### Other Resources
 
-Analogy in AI
+* Analogy in AI
 
 https://melaniemitchell.me/PostdocProjectDescription.pdf
 
-Abstraction and Reasoning Corpus Challenge
+* Abstraction and Reasoning Corpus
+
+https://github.com/fchollet/ARC
+
+* Abstraction and Reasoning Corpus Challenge
 
 https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challenge-24e59c07b50a
 
 https://github.com/alejandrodemiquel/ARC_Kaggle
 
-Other paths to intelligence elsewhere in the animal kingdom
+* Other paths to intelligence elsewhere in the animal kingdom
 
 https://nautil.us/another-path-to-intelligence-23113/
 
+
 ### Writeup and Projects
 
-Short report (less than 4000 words)
+* Short report (less than 4000 words)
 
-Suggest how these ideas can be incorporated in modern AI
+* Suggest how these ideas can be incorporated in modern AI/deep learning systems
+
+* Why do you think these ideas were not successful in the 1950s/1960s?
+
+* What kind of data would we need?
+
 
 ### Administrivia
 
@@ -95,3 +101,8 @@ https://www.cl.cam.ac.uk/teaching/2122/R255/
 Soumya Banerjee
 
 sb2333@cam.ac.uk
+
+neel.soumya@gmail.com
+
+https://sites.google.com/site/neelsoumya/Home
+
