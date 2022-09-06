@@ -12,9 +12,9 @@ This is AI or classical AI before big data. The time is now ripe to revisit thes
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
 
-The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
+* The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
 
-Computational models of creativity and scientific insight (Pat Langley)
+* Computational models of creativity and scientific insight (Pat Langley)
 
 https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
