@@ -14,6 +14,8 @@ This is AI or classical AI before big data. The time is now ripe to revisit thes
 
 * The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
 
+https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
+
 * Computational models of creativity and scientific insight (Pat Langley)
 
 https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
