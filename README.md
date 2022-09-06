@@ -76,6 +76,8 @@ https://blog.jovian.ai/finishing-2nd-in-kaggles-abstraction-and-reasoning-challe
 
 https://github.com/alejandrodemiquel/ARC_Kaggle
 
+> Domain specific languages may be required (as suggested by Chollet) like genetic algorithms and cellular automata
+
 * Other paths to intelligence elsewhere in the animal kingdom
 
 https://nautil.us/another-path-to-intelligence-23113/
