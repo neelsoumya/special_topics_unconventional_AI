@@ -5,7 +5,7 @@
 
 A reading list for a special topics class. A tentative title is: 
 
-`Unconventional approaches in AI and CS: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity and other unconventional models`
+`Unconventional approaches in AI: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity and other unconventional models`
 
 This is AI or classical AI before big data. The time is now ripe to revisit these wonderful ideas and think about how to incorporate them in modern AI/deep learning. Insights from the past can inform future approaches to AI, especially in the age of big data.
 
