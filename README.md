@@ -20,7 +20,6 @@ https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
 
 https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
-* The Theory of Mind
 
 * Copycat (a computational model of analogy making)
 
@@ -83,6 +82,11 @@ https://github.com/alejandrodemiquel/ARC_Kaggle
 * Other paths to intelligence elsewhere in the animal kingdom
 
 https://nautil.us/another-path-to-intelligence-23113/
+
+
+* The Theory of Mind
+
+https://en.wikipedia.org/wiki/Theory_of_mind
 
 
 ### Writeup and Projects
