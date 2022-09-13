@@ -9,7 +9,7 @@ A reading list for a special topics class. A tentative title is:
 
 This is AI or classical AI before big data. The time is now ripe to revisit these wonderful ideas and think about how to incorporate them in modern AI/deep learning. Insights from the past can inform future approaches to AI, especially in the age of big data.
 
-Looking at the heritage of computing and its interdisicplinary past can inspire new approaches for the future. We need to learn lessons from the history of AI, what approaches worked and did not work in the past and how AI went through multiple `winters`.
+Looking at the heritage of computing and its interdisciplinary past can inspire new approaches for the future. We need to learn lessons from the history of AI, what approaches worked and did not work in the past and how AI went through multiple `winters`.
 	
 These approaches can be used to develop techniques that can inspire explainable AI.
 
