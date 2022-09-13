@@ -16,9 +16,6 @@ These approaches can be used to develop techniques that can inspire explainable 
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
 
-* The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
-
-https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
 
 * Computational models of creativity and scientific insight (Pat Langley)
 
@@ -87,6 +84,10 @@ https://github.com/alejandrodemiquel/ARC_Kaggle
 
 https://nautil.us/another-path-to-intelligence-23113/
 
+* The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
+
+https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
+
 
 * The Theory of Mind
 
@@ -101,7 +102,9 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 
 * Why do you think these ideas were not successful in the 1950s/1960s?
 
-* What kind of data would we need?
+* What kind of data would we need to reimplement some of these techniques?
+
+* What lessons can we learn from the history of AI, what approaches worked and did not work in the past
 
 
 ### Administrivia
@@ -118,3 +121,4 @@ neel.soumya@gmail.com
 
 https://sites.google.com/site/neelsoumya/Home
 
+https://github.com/complexsystemslab/project_ideas
