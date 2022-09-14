@@ -13,6 +13,9 @@ Looking at the heritage of computing and its interdisciplinary past can inspire 
 	
 These approaches can be used to develop techniques that can inspire explainable AI.
 
+### Talk describing this topic
+
+TBD
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
 
