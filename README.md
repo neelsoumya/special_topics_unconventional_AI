@@ -105,9 +105,10 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 
 * Why do you think these ideas were not successful in the 1950s/1960s?
 
-* What kind of data would we need to reimplement some of these techniques?
+* What kind of data would we need to ensure these techniques would work today?
 
-* What lessons can we learn from the history of AI, what approaches worked and did not work in the past
+* What lessons can we learn from the history of AI, what approaches worked and did not work in the past?
+
 
 
 ### Administrivia
