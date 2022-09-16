@@ -87,6 +87,10 @@ https://github.com/alejandrodemiquel/ARC_Kaggle
 
 https://nautil.us/another-path-to-intelligence-23113/
 
+* The storytelling computer
+
+https://nautil.us/the-storytelling-computer-237502/
+
 * The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
 
 https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
@@ -117,6 +121,8 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 https://www.cl.cam.ac.uk/teaching/2122/R255/
 
 ### Contact
+
+You can also pick other papers that are broadly in this area/topic. Please contact me to discuss further.
 
 Soumya Banerjee
 
