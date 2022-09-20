@@ -115,10 +115,18 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 
 * What could be the disadvantages of these approaches?
 
+* Rational reconstruction (analytical literature review/survey) of a research area 
+
+* A detailed research proposal with some ground work already accomplished
+
+* A hybrid of the above
+
 
 ### Administrivia
 
 https://www.cl.cam.ac.uk/teaching/2122/R255/
+
+
 
 ### Contact
 
