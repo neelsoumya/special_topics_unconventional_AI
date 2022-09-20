@@ -126,6 +126,7 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 
 https://www.cl.cam.ac.uk/teaching/2122/R255/
 
+https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/admin_notes.md
 
 
 ### Contact
