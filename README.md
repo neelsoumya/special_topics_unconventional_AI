@@ -101,6 +101,8 @@ https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
 https://en.wikipedia.org/wiki/Theory_of_mind
 
 
+* The structure of scientific revolutions, Kuhn
+
 ### Writeup and Projects
 
 * Short report (less than 4000 words)
