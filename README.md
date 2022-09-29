@@ -33,6 +33,14 @@ https://dspace.mit.edu/handle/1721.1/5648
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
+* Structure mapping engine: Algorithms and examples
+
+https://doi.org/10.1016/0004-3702(89)90077-5
+
+
+* Learning new principles from precedents and exercises (Winston)
+
+https://doi.org/10.1016/0004-3702(82)90004-2
 
 * Creativity and artificial intelligence
 
