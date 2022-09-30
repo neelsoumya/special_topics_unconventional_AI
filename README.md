@@ -160,4 +160,4 @@ neel.soumya@gmail.com
 
 https://sites.google.com/site/neelsoumya/Home
 
-https://github.com/complexsystemslab/project_ideas
+https://github.com/complexsystemslab/project_ideas/blob/main/project_ideas.md
