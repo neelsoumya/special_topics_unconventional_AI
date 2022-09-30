@@ -111,6 +111,13 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 
 * The structure of scientific revolutions, Kuhn
 
+* Code
+
+https://github.com/Tijl/ANASIME
+
+https://github.com/crazydonkey200/SMEPy
+
+
 ### Writeup and Projects
 
 * Short report (less than 4000 words)
