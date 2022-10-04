@@ -122,9 +122,14 @@ https://github.com/crazydonkey200/SMEPy
 https://github.com/fargonauts/copycat
 
 
+### Presentations on selected papers
+
+Present and lead a discussion on one of these papers (or any other related paper: come speak with me).
+The idea is that you raise some interesting questions. This course is meant to teach you research skills (like thinking critically about a paper and literature review skills).
+
 ### Writeup and Projects
 
-* Short report (less than 4000 words)
+* Short report (less than 4000 words). The idea is write a coherent narrative. 
 
 * Suggest how these ideas can be incorporated in modern AI/deep learning systems
 
