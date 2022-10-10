@@ -5,7 +5,7 @@
 
 A reading list for a special topics class (R255) at the Computer Science and Technology Department at the University of Cambridge. A tentative title is: 
 
-`Unconventional approaches in AI: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity and other unconventional models`
+`Unconventional approaches in AI: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity, explainable AI inspired by other disciplines and other unconventional models`
 
 This is AI or classical AI before big data. The time is now ripe to revisit these wonderful ideas and think about how to incorporate them in modern AI/deep learning. Insights from the past can inform future approaches to AI, especially in the age of big data.
 
@@ -69,10 +69,23 @@ https://dspace.mit.edu/handle/1721.1/67693
 https://groups.csail.mit.edu/belief-dynamics/pdfs/MIT-CSAIL-TR-2009-063.pdf
 
 
+### Papers related to explainable AI (xAI) inspired by other disciplines
+
 * Explanation in artificial intelligence: Insights from the social sciences (Miller)
 
 https://arxiv.org/abs/1706.07269
 
+* Class contrastive reasoning
+
+https://www.nature.com/articles/s41537-021-00191-y
+
+* Explainability is in the mind of the beholder
+
+https://arxiv.org/abs/2112.14466
+
+* High stakes decisions using simple models (Cynthia Rudin): iterating with experts and building simple explainable models
+
+https://arxiv.org/abs/1811.10154
 
 
 ### Other Resources
