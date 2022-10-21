@@ -87,6 +87,10 @@ https://arxiv.org/abs/2112.14466
 
 https://arxiv.org/abs/1811.10154
 
+* Case based reasoning (Janet Kolodner)
+
+http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
+
 
 ### Other Resources
 
@@ -159,6 +163,8 @@ The idea is that you raise some interesting questions. This course is meant to t
 * A detailed research proposal with some ground work already accomplished
 
 * A hybrid of the above
+
+* If you feel ambitious, you can do a coding project based on open source data (talk to me if you would like to do this).
 
 
 ### Administrivia
