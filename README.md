@@ -3,7 +3,9 @@
 
 ## Introduction
 
-A reading list for a special topics class (R255) at the Computer Science and Technology Department at the University of Cambridge. A tentative title is: 
+A reading list for a special topics class (R255) at the Computer Science and Technology Department at the University of Cambridge. This is part of Advanced Topics in Machine Learning.
+
+A tentative title is: 
 
 `Unconventional approaches in AI: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity, explainable AI inspired by other disciplines and other unconventional models`
 
