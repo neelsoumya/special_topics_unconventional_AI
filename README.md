@@ -94,6 +94,11 @@ https://arxiv.org/abs/1811.10154
 http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
 
 
+* The Influence of Explainable Artificial Intelligence: Nudging Behaviour or Boosting Capability?
+
+https://arxiv.org/abs/2210.02407
+
+
 ### Other Resources
 
 * Analogy in AI
