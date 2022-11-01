@@ -98,6 +98,9 @@ http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasonin
 
 https://arxiv.org/abs/2210.02407
 
+* Royal Society report on explainable AI
+
+https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
 
 ### Other Resources
 
