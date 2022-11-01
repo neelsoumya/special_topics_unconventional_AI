@@ -102,6 +102,8 @@ https://arxiv.org/abs/2210.02407
 
 https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
 
+http://web.archive.org/web/20221026101516/https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
+
 ### Other Resources
 
 * Analogy in AI
@@ -186,13 +188,15 @@ https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/admin_n
 
 ### Contact
 
-You can also pick other papers that are broadly in this area/topic. Please contact me to discuss further.
+You can also pick other papers that are broadly in this area/topic and that excite you. Please contact me to discuss further.
 
 Soumya Banerjee
 
 sb2333@cam.ac.uk
 
 neel.soumya@gmail.com
+
+Office: FC01 (Computer Science and Technology Department)
 
 https://sites.google.com/site/neelsoumya/Home
 
