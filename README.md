@@ -130,6 +130,8 @@ https://nautil.us/another-path-to-intelligence-23113/
 
 https://nautil.us/the-storytelling-computer-237502/
 
+http://web.archive.org/web/20221102094120/https://nautil.us/the-storytelling-computer-237502/
+
 * The Psychology of Invention in the Mathematical Field (Jacques Hadamard)
 
 https://archive.org/details/eassayonthepsych006281mbp/page/n35/mode/2up
