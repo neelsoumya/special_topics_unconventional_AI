@@ -105,6 +105,15 @@ https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpret
 
 http://web.archive.org/web/20221026101516/https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
 
+
+### Collective intelligence
+
+* Collective intelligence as a public good
+
+https://doi.org/10.1177/26339137221083293
+
+
+
 ### Other Resources
 
 * Analogy in AI
