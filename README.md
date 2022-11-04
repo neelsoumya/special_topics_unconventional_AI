@@ -17,7 +17,8 @@ These approaches can be used to develop techniques that can inspire explainable 
 
 ### Talk describing this topic
 
-TBD
+https://www.youtube.com/watch?v=o7EXf265sTU
+
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
 
