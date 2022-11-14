@@ -112,6 +112,15 @@ http://web.archive.org/web/20221026101516/https://royalsociety.org/-/media/polic
 
 https://doi.org/10.1177/26339137221083293
 
+*  Eric W. Bonabeau. Control mechanisms for distributed autonomous systems: insights from social insects. 2001
+
+In Design Principles for the Immune System and Other Distributed Autonomous Systems.
+
+https://www-users.cs.york.ac.uk/susan/books/pages/s/LeeASegel.htm#9582
+
+(login with your RAVEN ID and search the university library webpage)
+
+https://idiscover.lib.cam.ac.uk/
 
 
 ### Other Resources
