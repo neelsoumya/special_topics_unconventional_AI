@@ -207,6 +207,14 @@ https://www.cl.cam.ac.uk/teaching/2122/R255/
 https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/admin_notes.md
 
 
+### Miscellaneous
+
+How to read papers
+
+https://www.cs197.seas.harvard.edu/
+
+https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit#
+
 ### Contact
 
 You can also pick other papers that are broadly in this area/topic and that excite you. Please contact me to discuss further.
