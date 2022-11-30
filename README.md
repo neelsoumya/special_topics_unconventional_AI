@@ -207,9 +207,15 @@ Some writing prompts for the writeup are here:
 
 * Rational reconstruction (analytical literature review/survey) of a research area 
 
+
+Other thoughts on the writeup:
+
 * A detailed research proposal with some ground work already accomplished
 
-* A hybrid of the above
+* A hybrid of all of the above
+
+
+Thoughts on a project:
 
 * If you feel ambitious, you can do a coding project based on open source data (talk to me if you would like to do this).
 
