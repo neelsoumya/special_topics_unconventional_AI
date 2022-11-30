@@ -177,7 +177,21 @@ https://github.com/fargonauts/copycat
 Present and lead a discussion on one of these papers (or any other related paper: come speak with me).
 The idea is that you raise some interesting questions. This course is meant to teach you research skills (like thinking critically about a paper and literature review skills).
 
-### Writeup and Projects
+### Writeup
+
+In this course, each student would chose one paper. They would then do a presentation on it. 
+
+Towards the end of the term they would do a writeup/short report: 
+
+* on this paper, and 
+
+* the topic in general (unconventional AI). They would do a literature review of other papers in the field. 
+
+* They will then reflect/write on how these techniques can be incorporated in modern AI/deep learning. 
+
+The intention is for students to learn how to read papers, and compare and contrast them to other papers and then evaluate what this means for AI/deep learning.
+
+Some writing prompts for the writeup are here:
 
 * Short report (less than 4000 words). The idea is write a coherent narrative. 
 
