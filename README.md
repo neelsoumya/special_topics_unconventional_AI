@@ -233,7 +233,8 @@ How to read papers
 
 https://www.cs197.seas.harvard.edu/
 
-https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit#
+https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit#heading=h.yxlvj6bo3y2
+
 
 ### Contact
 
