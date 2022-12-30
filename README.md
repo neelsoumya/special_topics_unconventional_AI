@@ -108,9 +108,10 @@ http://web.archive.org/web/20221026101516/https://royalsociety.org/-/media/polic
 
 ### Collective intelligence
 
-* Collective intelligence as a public good
+* Collective intelligence for deep learning: A survey of recent developments
 
-https://doi.org/10.1177/26339137221083293
+https://journals.sagepub.com/doi/full/10.1177/26339137221114874
+
 
 *  Eric W. Bonabeau. Control mechanisms for distributed autonomous systems: insights from social insects. 2001
 
@@ -121,6 +122,11 @@ https://www-users.cs.york.ac.uk/susan/books/pages/s/LeeASegel.htm#9582
 (login with your RAVEN ID and search the university library webpage)
 
 https://idiscover.lib.cam.ac.uk/
+
+
+* Collective intelligence as a public good
+
+https://doi.org/10.1177/26339137221083293
 
 
 ### Other Resources
