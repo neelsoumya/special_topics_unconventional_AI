@@ -249,6 +249,14 @@ Keep a schedule
 
 https://sites.google.com/site/neelsoumya/research-resources/scientific-writing
 
+Video on writing
+
+https://www.youtube.com/watch?v=DeVjXINr5Wk
+
+Book on writing (please contact me for a copy)
+
+`How to Write a Lot: A Practical Guide to Productive Academic Writing` by Paul J Silvia
+
 
 ### Contact
 
