@@ -19,6 +19,10 @@ These approaches can be used to develop techniques that can inspire explainable 
 
 https://www.youtube.com/watch?v=o7EXf265sTU
 
+Slides
+
+https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/intro.pdf
+
 
 ### Cognitive psychology, computational models of creativity and other unconventional models
 
