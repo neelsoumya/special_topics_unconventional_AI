@@ -24,7 +24,7 @@ Slides
 https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/intro.pdf
 
 
-### Cognitive psychology, computational models of creativity and other unconventional models
+### Cognitive psychology, computational models of creativity and other unconventional models in AI
 
 
 * Computational models of creativity and scientific insight (Pat Langley)
