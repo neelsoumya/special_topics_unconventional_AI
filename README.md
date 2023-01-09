@@ -266,7 +266,7 @@ Video on writing
 
 https://www.youtube.com/watch?v=DeVjXINr5Wk
 
-Book on writing (please contact me for a copy)
+Book on writing (please contact me to borrow a copy; also available from the library digitally)
 
 `How to Write a Lot: A Practical Guide to Productive Academic Writing` by Paul J Silvia
 
