@@ -76,27 +76,34 @@ https://dspace.mit.edu/handle/1721.1/67693
 https://groups.csail.mit.edu/belief-dynamics/pdfs/MIT-CSAIL-TR-2009-063.pdf
 
 
+* Case based reasoning (Janet Kolodner)
+
+http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
+
+
+
 ### Papers related to explainable AI (xAI) inspired by other disciplines
 
 * Explanation in artificial intelligence: Insights from the social sciences (Miller)
 
 https://arxiv.org/abs/1706.07269
 
-* Class contrastive reasoning
-
-https://www.nature.com/articles/s41537-021-00191-y
 
 * Explainability is in the mind of the beholder
 
 https://arxiv.org/abs/2112.14466
 
+
+<!--
+* Class contrastive reasoning
+
+https://www.nature.com/articles/s41537-021-00191-y
+
+
 * High stakes decisions using simple models (Cynthia Rudin): iterating with experts and building simple explainable models
 
 https://arxiv.org/abs/1811.10154
 
-* Case based reasoning (Janet Kolodner)
-
-http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
 
 
 * The Influence of Explainable Artificial Intelligence: Nudging Behaviour or Boosting Capability?
@@ -108,6 +115,8 @@ https://arxiv.org/abs/2210.02407
 https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
 
 http://web.archive.org/web/20221026101516/https://royalsociety.org/-/media/policy/projects/explainable-ai/AI-and-interpretability-policy-briefing.pdf
+
+-->
 
 
 ### Collective intelligence
