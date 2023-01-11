@@ -142,7 +142,7 @@ https://idiscover.lib.cam.ac.uk/
 https://doi.org/10.1177/26339137221083293
 -->
 
-### Other Resources
+### Miscellaneous Resources
 
 * Analogy in AI
 
