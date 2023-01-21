@@ -49,9 +49,11 @@ https://doi.org/10.1016/0004-3702(89)90077-5
 
 https://doi.org/10.1016/0004-3702(82)90004-2
 
-* Creativity and artificial intelligence
+<!-- * Creativity and artificial intelligence
 
 https://www.sciencedirect.com/science/article/pii/S0004370298000551
+
+-->
 
 * The overfitted brain: Dreams evolved to assist generalization
 
@@ -89,10 +91,11 @@ http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasonin
 https://arxiv.org/abs/1706.07269
 
 
-* Explainability is in the mind of the beholder
+<!-- * Explainability is in the mind of the beholder
 
 https://arxiv.org/abs/2112.14466
 
+-->
 
 <!--
 * Class contrastive reasoning
