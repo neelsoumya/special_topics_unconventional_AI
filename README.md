@@ -17,7 +17,13 @@ These approaches can be used to develop techniques that can inspire explainable 
 
 ### Talk describing this topic
 
+* Short talk
+
 https://www.youtube.com/watch?v=o7EXf265sTU
+
+* Full talk
+
+https://youtu.be/8s4vVPTGVfw
 
 Slides
 
