@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Banerjee"
+  given-names: "Soumya"
+  orcid: "https://orcid.org/0000-0001-7748-9885"
+title: "special_topics_unconventional_AI"
+version: 1.0.0
+doi: 10.5281/zenodo.7239476
+date-released: 2023-01-24
+url: "https://github.com/neelsoumya/special_topics_unconventional_AI"
