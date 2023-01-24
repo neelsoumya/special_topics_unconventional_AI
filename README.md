@@ -17,7 +17,7 @@ These approaches can be used to develop techniques that can inspire explainable 
 
 ### Talk describing this topic
 
-* Short talk
+* Short introductory talk
 
 https://www.youtube.com/watch?v=o7EXf265sTU
 
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=o7EXf265sTU
 
 https://youtu.be/8s4vVPTGVfw
 
-Slides
+* Slides
 
 https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/intro.pdf
 
