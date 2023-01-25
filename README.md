@@ -81,8 +81,11 @@ https://nautil.us/the-storytelling-computer-8380/
 
 https://dspace.mit.edu/handle/1721.1/67693
 
+<!--
+
 https://groups.csail.mit.edu/belief-dynamics/pdfs/MIT-CSAIL-TR-2009-063.pdf
 
+-->
 
 * Case based reasoning (Janet Kolodner)
 
