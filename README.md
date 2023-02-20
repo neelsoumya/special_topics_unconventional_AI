@@ -65,6 +65,10 @@ https://www.sciencedirect.com/science/article/pii/S0004370298000551
 
 https://doi.org/10.1016/j.patter.2021.100244
 
+* DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning
+
+https://arxiv.org/abs/2006.08381
+
 * On the measure of intelligence (Abstraction and Reasoning Corpus)
 
 https://arxiv.org/abs/1911.01547
