@@ -5,7 +5,7 @@
 
 A reading list for a special topics class (R255) at the Computer Science and Technology Department at the University of Cambridge. This is part of Advanced Topics in Machine Learning.
 
-A tentative title is: 
+The title of the course is: 
 
 `Unconventional approaches in AI: complex systems perspectives, cognitive psychology, social sciences, computational models of creativity, explainable AI inspired by other disciplines and other unconventional models`
 
@@ -28,6 +28,8 @@ https://youtu.be/8s4vVPTGVfw
 * Slides
 
 https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/intro.pdf
+
+https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/wrapup.pdf
 
 
 ### Cognitive psychology, computational models of creativity and other unconventional models in AI
