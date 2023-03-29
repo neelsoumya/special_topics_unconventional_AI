@@ -157,6 +157,11 @@ https://www-users.cs.york.ac.uk/susan/books/pages/s/LeeASegel.htm#9582
 
 https://idiscover.lib.cam.ac.uk/
 
+* Neural cellular automata
+
+https://distill.pub/2020/growing-ca/
+
+
 <!---
 * Collective intelligence as a public good
 
