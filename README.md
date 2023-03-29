@@ -39,6 +39,9 @@ https://github.com/neelsoumya/special_topics_unconventional_AI/blob/main/wrapup.
 
 https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
+* BACON.5: the discovery of conservation laws (Pat Langley)
+
+https://dl.acm.org/doi/abs/10.5555/1623156.1623181
 
 * Copycat (a computational model of analogy making)
 
