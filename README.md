@@ -100,6 +100,13 @@ https://groups.csail.mit.edu/belief-dynamics/pdfs/MIT-CSAIL-TR-2009-063.pdf
 
 http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
 
+### Papers from philosophy and consciousness studies
+
+Can we (and should we) have consciousness in machines?
+
+* Consciousness in Artificial Intelligence: Insights from the Science of Consciousness
+
+https://arxiv.org/pdf/2308.08708.pdf
 
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
