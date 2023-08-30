@@ -43,6 +43,10 @@ https://escholarship.org/content/qt54x8v354/qt54x8v354.pdf
 
 https://dl.acm.org/doi/abs/10.5555/1623156.1623181
 
+* A Computational Inflection for Scientific Discovery
+
+https://cacm.acm.org/magazines/2023/8/274938-a-computational-inflection-for-scientific-discovery/fulltext
+
 * Copycat (a computational model of analogy making)
 
 https://dspace.mit.edu/handle/1721.1/5648
