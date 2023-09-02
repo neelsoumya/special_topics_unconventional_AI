@@ -88,6 +88,15 @@ https://arxiv.org/abs/1911.01547
 
 https://dl.acm.org/doi/10.1145/2701413
 
+Commonsense reasoning, Cyc and large language models
+
+https://arxiv.org/pdf/2308.04445.pdf
+
+Cyc database of commonsense reasoning (Doug Lenat and Gary Marcus)
+
+http://web.archive.org/web/20230902080842/https://garymarcus.substack.com/p/doug-lenat-1950-2023
+
+
 * Stories and narratives (Patrick Winston)
 
 https://nautil.us/the-storytelling-computer-8380/
