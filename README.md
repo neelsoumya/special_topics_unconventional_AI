@@ -121,6 +121,9 @@ Can we (and should we) have consciousness in machines?
 
 https://arxiv.org/pdf/2308.08708.pdf
 
+* Levels of AGI: Operationalizing Progress on the Path to AGI
+
+https://arxiv.org/pdf/2311.02462.pdf
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
 
