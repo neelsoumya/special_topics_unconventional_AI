@@ -109,9 +109,19 @@ https://groups.csail.mit.edu/belief-dynamics/pdfs/MIT-CSAIL-TR-2009-063.pdf
 
 -->
 
+* Argument technology for debating with humans
+
+IBM Project Debater
+
+https://www.nature.com/articles/d41586-021-00539-5
+
+
+
 * Case based reasoning (Janet Kolodner)
 
 http://alumni.media.mit.edu/~jorkin/generals/papers/Kolodner_case_based_reasoning.pdf
+
+
 
 ### Papers from philosophy and consciousness studies
 
