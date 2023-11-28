@@ -138,6 +138,7 @@ https://arxiv.org/pdf/2311.02462.pdf
 
 ### Papers related to understanding in large language models (LLMs)
 
+
 * Can large language models reason or understand?
 
 https://arxiv.org/pdf/2210.13966.pdf
@@ -151,10 +152,6 @@ https://www.economist.com/by-invitation/2022/09/02/artificial-neural-networks-ar
 https://arxiv.org/pdf/2310.02207.pdf
 
 
-
-
-
-![image](https://github.com/neelsoumya/special_topics_unconventional_AI/assets/2981775/f4fd5e16-2ef7-42a2-b07e-921c78688bfa)
 
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
