@@ -135,6 +135,28 @@ https://arxiv.org/pdf/2308.08708.pdf
 
 https://arxiv.org/pdf/2311.02462.pdf
 
+
+### Papers related to understanding in large language models (LLMs)
+
+* Can large language models reason or understand?
+
+https://arxiv.org/pdf/2210.13966.pdf
+
+* Are they capable of consciousness?
+
+https://www.economist.com/by-invitation/2022/09/02/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas
+
+* World models in large language models
+
+https://arxiv.org/pdf/2310.02207.pdf
+
+
+
+
+
+![image](https://github.com/neelsoumya/special_topics_unconventional_AI/assets/2981775/f4fd5e16-2ef7-42a2-b07e-921c78688bfa)
+
+
 ### Papers related to explainable AI (xAI) inspired by other disciplines
 
 * Explanation in artificial intelligence: Insights from the social sciences (Miller)
