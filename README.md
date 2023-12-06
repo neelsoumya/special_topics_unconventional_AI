@@ -155,6 +155,10 @@ https://arxiv.org/pdf/2310.02207.pdf
 
 https://www.nature.com/articles/d41586-023-02361-7
 
+* Sparks of Artificial General Intelligence: Early experiments with GPT-4
+
+https://arxiv.org/abs/2303.12712
+
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
 
