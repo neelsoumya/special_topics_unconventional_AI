@@ -136,7 +136,7 @@ https://arxiv.org/pdf/2308.08708.pdf
 https://arxiv.org/pdf/2311.02462.pdf
 
 
-### Papers related to understanding in large language models (LLMs)
+### Papers related to understanding and reasoning in large language models (LLMs)
 
 
 * Can large language models reason or understand?
@@ -151,7 +151,9 @@ https://www.economist.com/by-invitation/2022/09/02/artificial-neural-networks-ar
 
 https://arxiv.org/pdf/2310.02207.pdf
 
+* Nature review
 
+https://www.nature.com/articles/d41586-023-02361-7
 
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
