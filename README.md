@@ -135,6 +135,11 @@ https://arxiv.org/pdf/2308.08708.pdf
 
 https://arxiv.org/pdf/2311.02462.pdf
 
+## Papers related to cognitive architectures
+
+* 40 years of cognitive architectures: core cognitive abilities and practical applications
+
+https://link.springer.com/article/10.1007/s10462-018-9646-y
 
 ### Papers related to understanding and reasoning in large language models (LLMs)
 
