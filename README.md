@@ -174,6 +174,9 @@ https://arxiv.org/pdf/2307.15936.pdf
 
 https://arxiv.org/pdf/2305.18354.pdf
 
+* Large Language Models as General Pattern Machines
+
+https://arxiv.org/abs/2307.04721
 
 
 ## Artificial Stupidity
