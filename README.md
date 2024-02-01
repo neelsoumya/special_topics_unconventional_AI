@@ -178,6 +178,10 @@ https://arxiv.org/pdf/2305.18354.pdf
 
 https://arxiv.org/abs/2307.04721
 
+* Hubert Dreyfus's crtique of Winograd's block worlds program
+
+https://archive.org/details/whatcomputerscan017504mbp/page/n39/mode/2up
+
 
 ## Artificial Stupidity
 
