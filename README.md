@@ -141,6 +141,8 @@ https://arxiv.org/pdf/2311.02462.pdf
 
 https://link.springer.com/article/10.1007/s10462-018-9646-y
 
+
+
 ### Papers related to understanding and reasoning in large language models (LLMs)
 
 
@@ -163,6 +165,22 @@ https://www.nature.com/articles/d41586-023-02361-7
 * Sparks of Artificial General Intelligence: Early experiments with GPT-4
 
 https://arxiv.org/abs/2303.12712
+
+* A Theory for Emergence of Complex Skills in Language Models
+
+https://arxiv.org/pdf/2307.15936.pdf
+
+* LLMs and the Abstraction and Reasoning Corpus: Successes, Failures, and the Importance of Object-based Representations
+
+https://arxiv.org/pdf/2305.18354.pdf
+
+
+
+## Artificial Stupidity
+
+* Lessons for artificial intelligence from the study of natural stupidity
+
+https://www.nature.com/articles/s42256-019-0038-z
 
 
 ### Papers related to explainable AI (xAI) inspired by other disciplines
