@@ -182,6 +182,9 @@ https://arxiv.org/abs/2307.04721
 
 https://archive.org/details/whatcomputerscan017504mbp/page/n39/mode/2up
 
+* Can LLMs understand? (Far from being “stochastic parrots,” the biggest large language models seem to learn enough skills to understand the words they’re processing.)
+
+https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/
 
 ## Artificial Stupidity
 
