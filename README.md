@@ -186,6 +186,10 @@ https://archive.org/details/whatcomputerscan017504mbp/page/n39/mode/2up
 
 https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/
 
+* Large Linguistic Models: Analyzing theoretical linguistic abilities of LLMs
+
+ https://arxiv.org/abs/2305.00948
+
 ## Artificial Stupidity
 
 * Lessons for artificial intelligence from the study of natural stupidity
