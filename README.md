@@ -190,6 +190,12 @@ https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-
 
  https://arxiv.org/abs/2305.00948
 
+* Theory of Mind benchmark for large language models
+
+  https://arxiv.org/abs/2402.06044
+
+  https://github.com/seacowx/OpenToM
+
 ## Artificial Stupidity
 
 * Lessons for artificial intelligence from the study of natural stupidity
