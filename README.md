@@ -200,6 +200,10 @@ https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-
 
   https://arxiv.org/abs/2304.15004
 
+* A Philosophical Introduction to Language Models
+
+  https://arxiv.org/abs/2401.03910  
+
 ## Artificial Stupidity
 
 * Lessons for artificial intelligence from the study of natural stupidity
