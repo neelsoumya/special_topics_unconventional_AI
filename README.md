@@ -143,7 +143,7 @@ https://link.springer.com/article/10.1007/s10462-018-9646-y
 
 
 
-### Papers related to understanding and reasoning in large language models (LLMs): The philosophy of large language models
+### Papers related to understanding and reasoning in large language models (LLMs): The philosophy and psychology of large language models
 
 
 * Can large language models reason or understand?
@@ -202,7 +202,11 @@ https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-
 
 * A Philosophical Introduction to Language Models
 
-  https://arxiv.org/abs/2401.03910  
+  https://arxiv.org/abs/2401.03910
+
+* Machine Psychology
+
+  https://arxiv.org/abs/2303.13988  
 
 ## Artificial Stupidity
 
