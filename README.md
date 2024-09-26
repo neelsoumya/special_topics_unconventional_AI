@@ -281,6 +281,16 @@ https://distill.pub/2020/growing-ca/
 https://doi.org/10.1177/26339137221083293
 -->
 
+### Reading science fiction and understanding the philosophy and ethics of AI
+
+Some papers and readings on using science fiction to understand the philosophy and ethics of AI.
+
+
+1. The Mind's I: Fantasies and reflections on self and soul. By Douglas Hoffstadter and Daniel Dennett
+
+2. https://cacm.acm.org/research/how-to-teach-computer-ethics-through-science-fiction/
+
+
 ### Miscellaneous Resources
 
 * Analogy in AI
