@@ -15,6 +15,8 @@ Looking at the heritage of computing and its interdisciplinary past can inspire 
 	
 These approaches can be used to develop techniques that can inspire explainable AI.
 
+We will also read science fiction stories to understand the philosophy and ethics of AI!
+
 ### Talk describing this topic
 
 * Short introductory talk
